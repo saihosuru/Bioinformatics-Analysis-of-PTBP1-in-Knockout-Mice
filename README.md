@@ -5,7 +5,12 @@ In this project, we conducted an in-depth analysis of previous datasets to inves
 
 # Team Members
 Carlos Garcia
+
 Sai Hosuru
+
 Qilin Zhao
+
 Wilson Lubeck
+
 Sharon Zhao
+
